@@ -2,4 +2,4 @@
 
 HTML and CSS code for nutrition label
 
-[!nutrition][/image/nutrition.jpg]
+[!nutrition](/image/nutrition.jpg)
